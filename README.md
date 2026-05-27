@@ -1,8 +1,6 @@
 
 # 💫 About Me:
-I'm a Fullstack student with experience in Java, Python, Typescript and some JavaScript frameworks for example React.
-<br>
-<br>I'm currently working on refreshing my Python skills and learning to code with C and C++ in a Linux environment for my internship in December 2025.
+I'm a Fullstack student with experience in Java, Python, Typescript and some JavaScript frameworks for example React. I also have experience working with C and C++ in a Linux environment. 
 <br>
 <br> I started my journey with learning web development but have gradually turned towards software development and an increased interest in embedded systems. Which stems from my interest in building computers in my early teens. I like the combination of both working with something physical and digital. 
 
